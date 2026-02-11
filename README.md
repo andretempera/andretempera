@@ -14,21 +14,16 @@ Welcome to my GitHub page, thanks for dropping by!
     title="Python"
     alt="Python"
     style="margin-right: 20px;"
-  /> <!-- SQL (Devicon) --> <img
+  /> <!-- SQL (Devicon) --> 
+  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
     width="32"
     height="32"
     title="SQL"
     alt="SQL"
     style="margin-right: 20px;"
-  /> <!-- Bash (Devicon) --> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
-    width="32"
-    height="32"
-    title="Bash"
-    alt="Bash"
-    style="margin-right: 20px;"
-  /> <!-- PostgreSQL (Devicon) --> <img
+  /> <!-- PostgreSQL (Devicon) --> 
+  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
     width="32"
     height="32"
@@ -43,7 +38,8 @@ Welcome to my GitHub page, thanks for dropping by!
     title="Power BI"
     alt="Power BI"
     style="margin-right: 20px;"
-  /> <!-- Tableau (Simple Icons) --> <img
+  /> <!-- Tableau (Simple Icons) --> 
+  <img
     src="https://cdn.brandfetch.io/id9sYMA_Im/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668082242510"
     width="32"
     height="32"
@@ -53,7 +49,15 @@ Welcome to my GitHub page, thanks for dropping by!
 </p>
 
 **But also:**
-  <!-- AWS (Devicon) -->
+  <!-- Bash (Devicon) --> 
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
+    width="32"
+    height="32"
+    title="Bash"
+    alt="Bash"
+    style="margin-right: 20px;"
+  /> <!-- AWS (Devicon) -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
     width="32"
@@ -118,14 +122,15 @@ Welcome to my GitHub page, thanks for dropping by!
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
     width="32"
+    height="32"
     title="LinkedIn"
     alt="LinkedIn"
     style="margin-right: 20px;"
-  />
-<a href="https://discordapp.com/users/502595731891290131/" target="_blank">
+  /> <a href="https://discordapp.com/users/502595731891290131/" target="_blank">
   <img
     src="https://cdn.brandfetch.io/idM8Hlme1a/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667560105720"
     width="32"
+    height="32"
     title="Discord"
     alt="Discord"
   />
