@@ -5,7 +5,9 @@
 
 ## About me
 I am André, a musician turned Data Engineer / Analyst.<br> 
-I like to build things that are useful and cool.
+I like to build things that are useful and cool.  
+
+<br>
 
 ## Tech Stack
 ### Mostly:
@@ -30,12 +32,14 @@ I like to build things that are useful and cool.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="32" title="MySQL" alt="MySQL" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="32" title="SQL Server" alt="SQL Server" />
 </p>
-
+<br>
 
 ## Currently
-- Building 4 end-to-end personal data projects (publishing soon)
+- Building 6 end-to-end personal data projects (publishing soon)
 - Completing professional data certifications
-- Open to junior data engineering/analytics opportunities
+- Open to junior data engineering/analytics opportunities  
+
+<br>
 
 ## Let's connect!
 <p>&nbsp;&nbsp;&nbsp;
