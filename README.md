@@ -35,8 +35,9 @@ I like to build things that are useful and cool.
 <br>
 
 ## Currently
-- Building 6 end-to-end personal data projects (publishing soon)
-- Completing professional data certifications
+- Maintaining, improving and updating the [**db-workbench**](https://github.com/andretempera/db-workbench) project - a local database playground and library for experimenting with multiple SQL and NoSQL engines in isolation
+- Because one is never enough - building 7 other end-to-end personal data projects (publishing one of them soon)
+- Studying, learning and completing professional data certifications
 - Open to junior data engineering/analytics opportunities  
 
 <br>
